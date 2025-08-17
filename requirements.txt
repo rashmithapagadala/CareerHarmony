@@ -1,9 +1,6 @@
 streamlit==1.28.0
 openai==1.31.0
 pandas==2.1.0
-docx2txt==0.8
-PyPDF2==3.0.1
-pdfplumber==0.9.0
-matplotlib==3.8.0
-plotly==5.18.0
+docx2txt
+pdfplumber
 scikit-learn==1.3.2
